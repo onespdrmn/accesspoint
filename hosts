@@ -1,0 +1,26 @@
+127.0.0.1	localhost
+127.0.1.1	celeron
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+192.168.1.1 router
+192.168.1.1 router1
+192.168.1.58 ipad
+192.168.1.67 roku1 
+192.168.1.68 iphone1
+192.168.1.82 iphone2
+
+
+192.168.2.1 router2
+192.168.2.87 roku2
+192.168.2.71 office
+192.168.2.75 tv1
+192.168.2.94 printer
+
+
+
